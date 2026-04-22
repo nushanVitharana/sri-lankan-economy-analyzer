@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+wbgapi
+openpyxl
+pytest
+numpy
+python-dateutil
+requests
